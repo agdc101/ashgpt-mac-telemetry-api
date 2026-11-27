@@ -1,2 +1,7 @@
 # deps
 node_modules/
+
+# local configuration
+.env
+.env.*
+!.env.example
